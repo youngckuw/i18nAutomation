@@ -1,0 +1,20 @@
+{
+  "name": "jasmime-data-provider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine init && ./node_modules/.bin/jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "franc": "^4.1.0",
+    "jasmine": "^3.4.0",
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-spec-reporter": "^4.2.1"
+  },
+  "dependencies": {
+    "install": "^0.12.2"
+  }
+}

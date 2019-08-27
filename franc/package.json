@@ -1,0 +1,17 @@
+{
+  "name": "franc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "franc": "^4.1.0",
+    "franc-cli": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "franc": "./node_modules/.bin/franc",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
