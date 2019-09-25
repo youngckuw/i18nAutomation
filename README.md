@@ -34,7 +34,9 @@ jasmine-data-provider enables user to provide data sets.
 webdriver.io uses webdriver to run e2e tests.
 
 1. install Firefox.
-2. execute 'npm run test'
+2. Install latest JDK (this is needed for Selenium Standalone service package.)
+3. execute 'npm run test'
 
 browser configuration files can be tweaked from wdio.conf.js file.
 1. e.g. to remove 'headless' feature, uncomment the line: args: ['-headless']
+2. To use Chrome, set browserName: chrome, and moz:firefoxOptions to goog:chromeOptions
