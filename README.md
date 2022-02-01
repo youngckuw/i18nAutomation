@@ -1,4 +1,5 @@
-**This repo contains demo codes from the Automated UI Internationalization Testing presentation**
+**This repo contains demo codes from the Automated UI Internationalization article**
+https://medium.com/slalom-build/how-to-test-internationalization-with-ui-automation-ff829bb718cc
 
 Each folders contain brief demo of what each packages do. Please refer to below comments on how to execute them.
 
